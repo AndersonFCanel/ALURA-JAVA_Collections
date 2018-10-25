@@ -29,7 +29,7 @@ public class TestandoListas {
 		System.out.println(aulas);
 
 		// PERCORRENDO A LISTA COM FOREACH
-		System.out.println("\n\nITERANDO A LISTA");
+		System.out.println("\n\nITERANDO NA LISTA");
 		for (String aula : aulas) {
 			System.out.println("Aula: " + aula);
 		}
